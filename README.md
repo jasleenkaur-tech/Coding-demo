@@ -1,4 +1,4 @@
 # Coding-demo
 This is my first Repository.
 <br>
-Author - Jasleen Kaur
+Author - Jasleen Kaur jandoria
